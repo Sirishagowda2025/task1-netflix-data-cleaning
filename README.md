@@ -1,13 +1,17 @@
-# task1-netflix-data-cleaning
+# task1-Netflix-data-cleaning
 Data cleaning and preprocessing of Netflix dataset as part of internship task.
 
 # 📊 Netflix Data Cleaning & Preprocessing — Internship Task 1
 
 Welcome! This repository contains my work for **Task 1** of the internship program, where I cleaned, explored, and structured a raw Netflix dataset using Python, AI tools, and self-guided research.
 
-## 🧠 Objective
+## 🎯 Objective
 
-To clean and preprocess a raw dataset of Netflix titles to prepare it for future data analysis and machine learning applications. This task helped me strengthen my skills in data wrangling, AI-assisted development, and independent problem-solving.
+- Handled missing and duplicate values
+- Converted date columns to correct formats
+- Cleaned `duration`, `country`, and `listed_in` columns
+- Created a cleaned `.csv` dataset from the original
+- Used AI tools to debug and enhance my understanding
 
 --
 
@@ -22,10 +26,11 @@ To clean and preprocess a raw dataset of Netflix titles to prepare it for future
 
 ## 🔧 Tools & Technologies
 
-- Google Colab (Python)
-- Pandas & NumPy
-- AI-based assistants for ideation and error fixing
-- Matplotlib & Seaborn 
+- 🐍 Python (Colab)
+- 📦 Pandas & NumPy
+- 🧹 Data Cleaning Techniques
+- 🤖 AI tools (ChatGPT, Bard, etc.) for debugging and learning
+- 📊   Seaborn and Matplotlib
 
 ---
 
@@ -59,5 +64,14 @@ Feel free to explore the notebook and data files above. Feedback is always welco
 
 ---
 
- 
+ ## 📬 Connect With Me
+
+📧 Email: sirishadsirishad6@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/sirisha-d-064b69278/
+
+
+---
+
+
+
 
