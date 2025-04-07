@@ -1,4 +1,4 @@
-# task1-Netflix-data-cleaning
+# Task1-Netflix-data-cleaning
 Data cleaning and preprocessing of Netflix dataset as part of internship task.
 
 # 📊 Netflix Data Cleaning & Preprocessing — Internship Task 1
@@ -64,7 +64,7 @@ Feel free to explore the notebook and data files above. Feedback is always welco
 
 ---
 
- ## 📬 Connect With Me
+ ## 🤝Connect With Me
 
 📧 Email: sirishadsirishad6@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/sirisha-d-064b69278/
